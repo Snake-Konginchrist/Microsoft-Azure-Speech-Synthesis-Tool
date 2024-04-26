@@ -30,8 +30,7 @@
 3. 创建一个 Azure 订阅，获取你的订阅密钥和服务区域。
 
 ### 配置
-
-在 `config.py` 文件中设置你的 Azure 订阅密钥和服务区域：
+你需要自行创建`config.py` 文件，并设置你的 Azure 订阅密钥和服务区域：
 
 ```python
 # config.py
