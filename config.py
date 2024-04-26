@@ -1,4 +1,0 @@
-# Azure 订阅密钥和服务区域的配置
-
-SUBSCRIPTION_KEY = "87be429a0065462481c1788d1732c584"
-SERVICE_REGION = "eastasia"
