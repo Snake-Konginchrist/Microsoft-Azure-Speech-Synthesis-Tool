@@ -27,7 +27,7 @@
    pip install -r requirements.txt
    ```
 
-3. 创建一个Azure订阅，获取你的订阅密钥和服务区域。[Microsoft Azure云计算服务](https://azure.microsoft.com/zh-cn/)
+3. 创建一个Azure语音服务的订阅，获取你的订阅密钥和服务区域。[Microsoft Azure云计算服务](https://azure.microsoft.com/zh-cn/)
 
 ### 配置
 你需要在项目根目录下自行创建`config.py` 文件，并设置你的Azure订阅密钥和服务区域。
